@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(modules/example_module)
 
-add_executable(CMake_Project src/main.cpp)
+add_executable(CMake_Project src/main.cpp
+        include/example_header.h)
 
 target_link_libraries(CMake_Project PRIVATE example_module)
