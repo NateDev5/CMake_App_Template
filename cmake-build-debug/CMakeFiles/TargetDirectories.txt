@@ -1,6 +1,0 @@
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/CMakeFiles/NewtonEngine.dir
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/modules/example_module/CMakeFiles/example_module.dir
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/modules/example_module/CMakeFiles/edit_cache.dir
-D:/Nate/C++/CMake_App_Template/cmake-build-debug/modules/example_module/CMakeFiles/rebuild_cache.dir
