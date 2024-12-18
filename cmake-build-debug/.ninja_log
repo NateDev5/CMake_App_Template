@@ -1,0 +1,5 @@
+# ninja log v6
+5	56	7562555269191023	CMakeFiles/NewtonEngine.dir/src/main.cpp.obj	b3eb7ccb8a8ae020
+1	59	7562555269155173	modules/example_module/CMakeFiles/example_module.dir/src/example.cpp.obj	86cc39dfd4fe43e5
+60	272	7562555269738278	modules/example_module/libexample_module.a	ab7caeef76fdd784
+272	435	7562555271869185	NewtonEngine.exe	122d7e30932a26ba
